@@ -1,0 +1,6 @@
+spring:
+  kafka:
+    streams:
+      state:
+        dir: /home/karthik/Documents/Learning/kafka/streams/statedir
+    bootstrap-servers: localhost:9092
